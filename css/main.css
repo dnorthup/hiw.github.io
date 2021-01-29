@@ -1,6 +1,6 @@
 body{
 	background-color: #FFFFFF;
-  	background-image: url(./img/bg.png);
+  	background-image: url(../img/bg.png);
 	text-align: center;
 }
 
@@ -115,7 +115,7 @@ right: 10px;
 
 #pastwork{
 float: right;
-position: relative
+position: relative;
 right: 10px;
 }
 

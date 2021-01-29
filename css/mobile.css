@@ -1,6 +1,6 @@
 body{
 	background-color: #FFFFFF;
-  	background-image: url(./img/bg.png);
+  	background-image: url(../img/bg.png);
 	text-align: center;
 }
 
@@ -110,7 +110,7 @@ left: : 10px;
 float: none;
 clear: both;
 display: block;
-position: relative
+position: relative;
 left: 10px;
 }
 
