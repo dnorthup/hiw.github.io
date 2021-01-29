@@ -35,19 +35,19 @@ h2.tPad{
 }
 
 a:link {
-    color: #FF4081;
+    color: #d35b1e;
     text-decoration: none;
 }
 a:visited {
-    color: #FF4081;
+    color: #d35b1e;
     text-decoration: none;
 }
 a:hover {
-    color: #B2DFDB;
+    color: #725a3b;
     text-decoration: none;
 }
 a:active {
-    color: #B2DFDB;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -97,16 +97,18 @@ right: 100px;
 #description{
 float: left;
 width: 800px;
-position: absolute;
+position: relative;
 left: 100px;
-background-color: rgba(255, 255, 255, 0.5);
+background-color: rgba(255, 255, 255, 1);
 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 padding: 8px;
 }
 
+}
+
 #socials{
 float: right;
-position: relative;
+position: absolute;
 width: 800px;
 right: 10px;
 }
